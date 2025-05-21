@@ -65,7 +65,8 @@ pip install numpy pandas scikit-learn tensorflow xgboost lightgbm matplotlib sea
 ## 开发工具：
 - PyCharm
 - VS Code
-
+## 数据集：
+请联系本人或者从官网上下载
 
 ## 使用方法
 
